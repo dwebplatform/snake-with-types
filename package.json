@@ -1,0 +1,25 @@
+{
+  "name": "p5js-typescript",
+  "version": "1.0.0",
+  "description": "Easy-to-use template for p5js and TypeScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/p5": "0.9.0",
+    "p5": "1.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "processing",
+    "generative art",
+    "creative coding",
+    "art",
+    "p5js",
+    "p5.js"
+  ]
+}
